@@ -22,4 +22,4 @@ p = [0.1, 0.2, 0.4, 0.3]
 n = len(p)
 
 result = obst_success(p, n)
-print("min cost:"f"{result:.4f}")
+print("Min cost:"f"{result:.4f}")
